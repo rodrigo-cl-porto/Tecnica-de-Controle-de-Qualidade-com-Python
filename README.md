@@ -4,7 +4,7 @@ Repositório de Notebooks Python desenvolvidos ao longo da disciplina de Técnic
 
 # Informações
 
-UNIVERSIDADE FEDERAL FLUMINENSE
-Disciplina: TEP00120
-Prof.: Dr. José Kimio Ando
-Período: 2021.1
+- UNIVERSIDADE FEDERAL FLUMINENSE
+- Disciplina: TEP00120
+- Prof.: Dr. José Kimio Ando
+- Período: 2021.1
